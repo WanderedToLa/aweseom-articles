@@ -16,10 +16,15 @@
 
 # Error Handling
 
+- [if kakao sentry를 이용한 에러추적](https://if.kakao.com/2022/session/84)
 - [Sentry DOC](https://docs.sentry.io/)
 - [adrenaline Github](https://github.com/shobrook/adrenaline/)
 
   > chatGPT 기반 디버그 툴
+
+# State Manager
+
+- [Redux Nomalize](https://jbee.io/react/react-redux-normalize/)
 
 - ## Article
 
@@ -33,12 +38,12 @@
 
     > 타입과 인터페이스중 어떤것을 사용할지에 대한 글
 
-  - [Redux Nomalize](https://jbee.io/react/react-redux-normalize/)
   - [디자인 시스템 FEconf2022](https://so-so.dev/react/design-system-decision-record/)
 
-    > 공통 컴포넌트에 대해
+    > 공통 컴포넌트, 확장성 생각하기
 
   - [Toast UI guide](https://ui.toast.com/fe-guide/ko)
   - [화해 tech 블로그](https://blog.hwahae.co.kr/category/all/tech) 강추
+  - [if kakao conf 2022](https://if.kakao.com/session?t.bab36uRci8=2&f.2gB2OPT7YO.GgWcMRm0cNSS=fe) 강추
 
     > 시간날때 읽어보기
