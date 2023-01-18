@@ -58,9 +58,15 @@
 - [뱅크샐러드 Web chapter에서 GitHub Action 기반의 CI 속도를 개선한 방법](https://blog.banksalad.com/tech/github-action-npm-cache/)
 - [10x Faster CI with Nx and Github Actions](https://medium.com/emoteev-blog/10x-faster-ci-with-nx-and-github-actions-9a51fc4e82a6)
 
-# CS
+# CS / Math for CS
 
+- [Lovász 교수의 이산수학](https://cims.nyu.edu/~regev/teaching/discrete_math_fall_2005/dmbook.pdf)
+- [선형대수 기초](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [동시성 , 병렬 , 비동기 ...](https://black7375.tistory.com/90)
+
+# OS
+
+- [Linux Kernel Development 책](https://github.com/minnsane/TeachYourselfCS-KR)
 
 # ETC
 
