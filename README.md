@@ -4,7 +4,7 @@
 
 # FrontEnd
 
-- ## Stack Doc
+- ## Stacks
 
   - [Typescript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
   - [React Doc](https://ko.reactjs.org/docs/getting-started.html)
