@@ -43,3 +43,11 @@
 - [주니어 개발자들의 (얕은) 코드리뷰 도입기](https://shinsunyoung.tistory.com/92)
 - [배민 코드리뷰 문화](https://story.baemin.com/2219/)
 - [토스ㅣSLASH 21 - 토스팀을 위한 슬랙봇 설계](https://www.youtube.com/watch?v=EChKnpxgX-4&t=305s)
+
+## Books
+
+> 읽고 싶은것만
+
+- [실용주의 프로그래머](http://www.yes24.com/Product/Goods/12501565) 읽는중
+- [리팩토링 2판](https://www.coupang.com/vp/products/1388403622?itemId=2423947118&vendorItemId=70418019480&src=1042503&spec=10304982&addtag=400&ctag=1388403622&lptag=10304982I2423947118&itime=20230118230739&pageType=PRODUCT&pageValue=1388403622&wPcid=16566832247521699889143&wRef=&wTime=20230118230739&redirect=landing&gclid=CjwKCAiAzp6eBhByEiwA_gGq5G01rsJ0UiufsD81g956knLSybne2ArPHIiSzKkyE5w8B2j--sipeBoC-lIQAvD_BwE&campaignid=18626086777&adgroupid=&isAddedCart=)
+- [컴퓨터 사이언스 부트캠프 with Python](https://www.coupang.com/vp/products/73196366?itemId=244021205&vendorItemId=3600466849&src=1042503&spec=10304982&addtag=400&ctag=73196366&lptag=10304982I244021205&itime=20230118230830&pageType=PRODUCT&pageValue=73196366&wPcid=16566832247521699889143&wRef=&wTime=20230118230830&redirect=landing&gclid=CjwKCAiAzp6eBhByEiwA_gGq5H4hkcLd87KtVgzeBkDtiHzp78bk6hIyJ0Q0cRMJZzwn2SP0ohlCuhoCMQUQAvD_BwE&campaignid=18626086777&adgroupid=&isAddedCart=)
