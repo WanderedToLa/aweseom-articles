@@ -17,6 +17,9 @@
 - ## Error Handling
 
   - [Sentry DOC](https://docs.sentry.io/)
+
+  > chatGPT 기반 디버그 툴
+
   - [adrenaline Github](https://github.com/shobrook/adrenaline/)
 
 - ## Article
