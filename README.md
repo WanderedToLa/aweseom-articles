@@ -1,6 +1,7 @@
 # Gather Link to programming for information
 
 - Do not provide about tech or a guide to becoming a better programmer _this is just link_
+- Front-End 위주의 지식들 읽었거나 읽는중 또는 아주 기초적인 지식부터 추천도서등 다양하게 수집하는 중 입니다.
 
 # FrontEnd
 
