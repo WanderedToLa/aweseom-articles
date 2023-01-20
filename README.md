@@ -60,6 +60,7 @@
 
 # CS / Math for CS
 
+- [NEW 이산수학 (대학수학기초) 이상준 경희대 교수](https://www.youtube.com/watch?v=pNPowcLmVus&list=PLaqQvlCBe8vLrmtPgU7DV6r7Ofk43dB0m)
 - [Lovász 교수의 이산수학](https://cims.nyu.edu/~regev/teaching/discrete_math_fall_2005/dmbook.pdf)
 - [선형대수 기초](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [동시성 , 병렬 , 비동기 ...](https://black7375.tistory.com/90)
