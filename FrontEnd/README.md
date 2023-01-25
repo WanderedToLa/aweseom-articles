@@ -43,7 +43,7 @@
     > 공통 컴포넌트, 확장성 생각하기
 
   - [Toast UI guide](https://ui.toast.com/fe-guide/ko)
-  - [화해 tech 블로그](https://blog.hwahae.co.kr/category/all/tech) 강추
-  - [if kakao conf 2022](https://if.kakao.com/session?t.bab36uRci8=2&f.2gB2OPT7YO.GgWcMRm0cNSS=fe) 강추
+  - [화해 tech 블로그](https://blog.hwahae.co.kr/category/all/tech) 🥇
+  - [if kakao conf 2022](https://if.kakao.com/session?t.bab36uRci8=2&f.2gB2OPT7YO.GgWcMRm0cNSS=fe) 🥇
 
     > 시간날때 읽어보기
