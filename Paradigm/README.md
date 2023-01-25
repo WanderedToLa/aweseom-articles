@@ -10,6 +10,7 @@
   - [함수형 프로그래밍과 ES6+](https://www.youtube.com/watch?v=4sO0aWTd3yc&t=43s)
   - [모나드 , 함수형 아키텍쳐](https://teamdable.github.io/techblog/Moand-and-Functional-Architecture)
   - [Elixir에 대하여 / 개발자 부족의 시대, Elixir가 특효약이 될수 있는 이유](https://www.youtube.com/watch?v=lAaD-6OQSHE)
+  - [FP 패러다임의 전환](https://kpug.github.io/fp-gitbook/Chapter1.html)
 
 # Design Pattern
 
