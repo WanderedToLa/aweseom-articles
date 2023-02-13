@@ -27,23 +27,24 @@
 - [Redux Nomalize](https://jbee.io/react/react-redux-normalize/)
 
 - ## Article
+  
+  - [웹 최적화 방식](https://black7375.tistory.com/82)
 
+  - [Type Challenges](https://github.com/type-challenges/type-challenges/blob/main/README.ko.m)⭐⭐⭐
+  
+  - [Typescript를 위한 CleanCode](https://738.github.io/clean-code-typescript/)
   - [Typescript는 어떻게 공부해야 하나요?](https://yozm.wishket.com/magazine/detail/1376/)
   - [typescript 정리](https://inpa.tistory.com/category/Language/TypeScript)
-
-    > 타입스크립트를 어떻게 공부해야할지 헷갈린다면
 
   - [Type VS Interface](https://medium.com/humanscape-tech/type-vs-interface-%EC%96%B8%EC%A0%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-f36499b0de50)
   - [Type VS Interface 2](https://tecoble.techcourse.co.kr/post/2022-11-07-typeAlias-interface/)
 
-    > 타입과 인터페이스중 어떤것을 사용할지에 대한 글
+    > 타입과 인터페이스중 어떤것을 사용할지
 
   - [디자인 시스템 FEconf2022](https://so-so.dev/react/design-system-decision-record/)
 
-    > 공통 컴포넌트, 확장성 생각하기
+    > 공통 컴포넌트, 확장성
 
   - [Toast UI guide](https://ui.toast.com/fe-guide/ko)
   - [화해 tech 블로그](https://blog.hwahae.co.kr/category/all/tech) 🥇
   - [if kakao conf 2022](https://if.kakao.com/session?t.bab36uRci8=2&f.2gB2OPT7YO.GgWcMRm0cNSS=fe) 🥇
-
-    > 시간날때 읽어보기
