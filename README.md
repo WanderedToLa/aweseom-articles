@@ -22,6 +22,9 @@
 
 ## 💻 CS / NETWORK
 
+- ## C++
+  - [모두의 코드 - 씹어먹는 C++](https://modoocode.com/135)
+
 - [NEW 이산수학 (대학수학기초) 이상준 경희대 교수](https://www.youtube.com/watch?v=pNPowcLmVus&list=PLaqQvlCBe8vLrmtPgU7DV6r7Ofk43dB0m)
 - [Lovász 교수의 이산수학](https://cims.nyu.edu/~regev/teaching/discrete_math_fall_2005/dmbook.pdf)
 - [선형대수 기초](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
@@ -36,6 +39,8 @@
 
 > how to communicate bery well
 
+- [JavaScript 번들러로 본 조선시대 붕당의 이해](https://wormwlrm.github.io/2020/08/12/History-of-JavaScript-Modules-and-Bundlers.html)
+- [스시 오마카세 리스트](https://github.com/738/awesome-sushi)
 - [코드 리뷰 in 뱅크샐러드 개발 문화](https://blog.banksalad.com/tech/banksalad-code-review-culture/)
 - [클래스 101 코드 컨벤션](https://jobs.class101.net/1dc83442-c2d4-4162-94ae-4d04717f1ae0)
 - [주니어 개발자들의 (얕은) 코드리뷰 도입기](https://shinsunyoung.tistory.com/92)
