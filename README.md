@@ -37,7 +37,7 @@
 
 ## ETC
 
-> how to communicate bery well
+> how to communicate very well
 
 - [JavaScript 번들러로 본 조선시대 붕당의 이해](https://wormwlrm.github.io/2020/08/12/History-of-JavaScript-Modules-and-Bundlers.html)
 - [스시 오마카세 리스트](https://github.com/738/awesome-sushi)
