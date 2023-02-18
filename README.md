@@ -25,6 +25,7 @@
 - ## C++
   - [모두의 코드 - 씹어먹는 C++](https://modoocode.com/135)
 
+- [Introduction to Computer Networking Stanford University](https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z)
 - [UC Berkeley Computer Science](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=-publicdate)
 - [NEW 이산수학 (대학수학기초) 이상준 경희대 교수](https://www.youtube.com/watch?v=pNPowcLmVus&list=PLaqQvlCBe8vLrmtPgU7DV6r7Ofk43dB0m)
 - [Lovász 교수의 이산수학](https://cims.nyu.edu/~regev/teaching/discrete_math_fall_2005/dmbook.pdf)
@@ -33,6 +34,7 @@
 
 ## OS
 
+- [Operating Systems: Three Easy Pieces - PDF](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [리눅스 기초](https://www.youtube.com/watch?v=tPWBF13JIVk&t=1s)
 - [Linux Kernel Development 책](https://github.com/minnsane/TeachYourselfCS-KR)
 
