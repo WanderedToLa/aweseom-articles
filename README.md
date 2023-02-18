@@ -25,6 +25,7 @@
 - ## C++
   - [모두의 코드 - 씹어먹는 C++](https://modoocode.com/135)
 
+- [UC Berkeley Computer Science](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=-publicdate)
 - [NEW 이산수학 (대학수학기초) 이상준 경희대 교수](https://www.youtube.com/watch?v=pNPowcLmVus&list=PLaqQvlCBe8vLrmtPgU7DV6r7Ofk43dB0m)
 - [Lovász 교수의 이산수학](https://cims.nyu.edu/~regev/teaching/discrete_math_fall_2005/dmbook.pdf)
 - [선형대수 기초](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
