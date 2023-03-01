@@ -35,6 +35,7 @@
   - [Typescript를 위한 CleanCode](https://738.github.io/clean-code-typescript/)
   - [Typescript는 어떻게 공부해야 하나요?](https://yozm.wishket.com/magazine/detail/1376/)
   - [typescript 정리](https://inpa.tistory.com/category/Language/TypeScript)
+  - [Template Literal Types로 타입 안전하게 코딩하기](https://toss.tech/article/template-literal-types)
 
   - [Type VS Interface](https://medium.com/humanscape-tech/type-vs-interface-%EC%96%B8%EC%A0%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-f36499b0de50)
   - [Type VS Interface 2](https://tecoble.techcourse.co.kr/post/2022-11-07-typeAlias-interface/)
