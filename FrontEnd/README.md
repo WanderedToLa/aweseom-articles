@@ -7,6 +7,21 @@
 - [Jest](https://jestjs.io/)
 - [Zustand Github](https://github.com/pmndrs/zustand)
 
+# Typescript
+- [Type Challenges](https://github.com/type-challenges/type-challenges/blob/main/README.ko.m)⭐⭐⭐
+- [9가지 프로그래밍 언어로 배우는 개념: 1편 - 타입 이론 Devsisters Tech](https://tech.devsisters.com/posts/programming-languages-1-type-theory)
+- [Typescript를 위한 CleanCode](https://738.github.io/clean-code-typescript/)
+- [Typescript는 어떻게 공부해야 하나요?](https://yozm.wishket.com/magazine/detail/1376/)
+- [typescript 정리](https://inpa.tistory.com/category/Language/TypeScript)
+- [Template Literal Types로 타입 안전하게 코딩하기](https://toss.tech/article/template-literal-types)
+- [Bringing Pattern Matching to TypeScript 🎨 Introducing TS-Pattern v3.0](https://dev.to/gvergnaud/bringing-pattern-matching-to-typescript-introducing-ts-pattern-v3-0-o1k)
+- [Using Tagged Unions](https://greg-pabian.medium.com/using-tagged-unions-84705459107a)
+
+- [Type VS Interface](https://medium.com/humanscape-tech/type-vs-interface-%EC%96%B8%EC%A0%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-f36499b0de50)
+- [Type VS Interface 2](https://tecoble.techcourse.co.kr/post/2022-11-07-typeAlias-interface/)
+
+  > 타입과 인터페이스중 어떤것을 사용할지
+
 # TEST
 
 - [how to jest Coverage](https://www.daleseo.com/jest-coverage/)
@@ -26,27 +41,15 @@
 
 - [Redux Nomalize](https://jbee.io/react/react-redux-normalize/)
 
-- ## Article
+# Web Optimize & Utils
   
-  - [웹 최적화 방식](https://black7375.tistory.com/82)
+- [웹 최적화 방식](https://black7375.tistory.com/82)
+- [useHooks-ts](https://usehooks-ts.com/react-hook/use-boolean)
 
-  - [Type Challenges](https://github.com/type-challenges/type-challenges/blob/main/README.ko.m)⭐⭐⭐
-  
-  - [Typescript를 위한 CleanCode](https://738.github.io/clean-code-typescript/)
-  - [Typescript는 어떻게 공부해야 하나요?](https://yozm.wishket.com/magazine/detail/1376/)
-  - [typescript 정리](https://inpa.tistory.com/category/Language/TypeScript)
-  - [Template Literal Types로 타입 안전하게 코딩하기](https://toss.tech/article/template-literal-types)
 
-  - [Type VS Interface](https://medium.com/humanscape-tech/type-vs-interface-%EC%96%B8%EC%A0%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-f36499b0de50)
-  - [Type VS Interface 2](https://tecoble.techcourse.co.kr/post/2022-11-07-typeAlias-interface/)
+# Tech Blog
 
-    > 타입과 인터페이스중 어떤것을 사용할지
-
-  - [디자인 시스템 FEconf2022](https://so-so.dev/react/design-system-decision-record/)
-
-    > 공통 컴포넌트, 확장성
-
-  - [useHooks-ts](https://usehooks-ts.com/react-hook/use-boolean)
-  - [Toast UI guide](https://ui.toast.com/fe-guide/ko)
-  - [화해 tech 블로그](https://blog.hwahae.co.kr/category/all/tech) 🥇
-  - [if kakao conf 2022](https://if.kakao.com/session?t.bab36uRci8=2&f.2gB2OPT7YO.GgWcMRm0cNSS=fe) 🥇
+- [Toast UI guide](https://ui.toast.com/fe-guide/ko)
+- [디자인 시스템 FEconf2022](https://so-so.dev/react/design-system-decision-record/)
+- [화해 tech 블로그](https://blog.hwahae.co.kr/category/all/tech) 🥇
+- [if kakao conf 2022](https://if.kakao.com/session?t.bab36uRci8=2&f.2gB2OPT7YO.GgWcMRm0cNSS=fe) 🥇
