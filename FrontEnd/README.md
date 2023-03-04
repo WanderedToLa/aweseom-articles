@@ -8,6 +8,7 @@
 - [Zustand Github](https://github.com/pmndrs/zustand)
 
 # Typescript
+
 - [Type Challenges](https://github.com/type-challenges/type-challenges/blob/main/README.ko.m)⭐⭐⭐
 - [9가지 프로그래밍 언어로 배우는 개념: 1편 - 타입 이론 Devsisters Tech](https://tech.devsisters.com/posts/programming-languages-1-type-theory)
 - [Typescript를 위한 CleanCode](https://738.github.io/clean-code-typescript/)
