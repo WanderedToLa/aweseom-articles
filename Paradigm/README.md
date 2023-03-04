@@ -1,6 +1,4 @@
-# FP
-
-> Functional Programming to ES6+ 그외 다른 언어들 까지
+# Functional Programming
 
 - ## Article
 
@@ -14,8 +12,6 @@
   - [함수형 프로그래밍을 배워보자 - javascript](https://velog.io/@teo/functional-programming-study)
 
 # Design Pattern
-
-> 개발과정에서 겪는 문제들을 해결하기 위한 재활용성에 대한 고찰
 
 - ## Article
 
