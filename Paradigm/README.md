@@ -5,6 +5,7 @@
   - [제너레이터](https://ko.javascript.info/generators)
   - [이터러블 / 이터레이터](https://inpa.tistory.com/entry/JS-%F0%9F%93%9A-%EC%9D%B4%ED%84%B0%EB%9F%AC%EB%B8%94-%EC%9D%B4%ED%84%B0%EB%A0%88%EC%9D%B4%ED%84%B0-%F0%9F%92%AF%EC%99%84%EB%B2%BD-%EC%9D%B4%ED%95%B4)
   - [fp-ts로 Typescript 함수형 프로그래밍 시작하기](https://alstn2468.github.io/TypeScript/2021-04-21-fp-ts-0/)
+  - [타입스크립트(typescript)로 배우는 함수형 프로그래밍 - 같은 타입 다루기](https://itchallenger.tistory.com/388)
   - [함수형 프로그래밍과 ES6+](https://www.youtube.com/watch?v=4sO0aWTd3yc&t=43s)
   - [모나드 , 함수형 아키텍쳐](https://teamdable.github.io/techblog/Moand-and-Functional-Architecture)
   - [Elixir에 대하여 / 개발자 부족의 시대, Elixir가 특효약이 될수 있는 이유](https://www.youtube.com/watch?v=lAaD-6OQSHE)
