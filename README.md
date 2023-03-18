@@ -2,6 +2,10 @@
 
 - Do not provide about tech or a guide to becoming a better programmer _this is just link_
 
+## MindSet
+
+- [???: 국영수가 코딩보다 중요해요](https://blog.kurcreative.com/kur2008300326)
+
 ## 🎹 Front-End
 
 > How to become a great FE dev
