@@ -14,6 +14,8 @@
 
 # Design Pattern
 
+- [소프트웨어 설계가 완벽할 수 없는 다섯 가지 이유](https://swarchi.tistory.com/12)
+
 - ## Article
 
   - [React에 SOLID 적용하기](https://dev-boku.tistory.com/entry/%EB%B2%88%EC%97%AD-React%EC%97%90-SOLID-%EC%9B%90%EC%B9%99-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
