@@ -25,6 +25,7 @@
 - ## C++
   - [모두의 코드 - 씹어먹는 C++](https://modoocode.com/135)
 
+- [Compiler](https://www.youtube.com/watch?v=MAG4ten4nAM&list=PLalDxVXf3NHertbSsvTLOLZz0T3FyCQnI)
 - [Introduction to Computer Networking Stanford University](https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z)
 - [UC Berkeley Computer Science](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=-publicdate)
 - [NEW 이산수학 (대학수학기초) 이상준 경희대 교수](https://www.youtube.com/watch?v=pNPowcLmVus&list=PLaqQvlCBe8vLrmtPgU7DV6r7Ofk43dB0m)
@@ -60,6 +61,7 @@
 
 - [SICP Javascript](http://www.yes24.com/Product/Goods/116469364)
 - [Code Complete2](http://www.yes24.com/Product/Goods/44130507)
+- [Programming : Principles and Practice Using C++](http://www.yes24.com/Product/Goods/23207535)
 - [컴퓨터 사이언스 부트캠프 with Python](https://www.coupang.com/vp/products/73196366?itemId=244021205&vendorItemId=3600466849&src=1042503&spec=10304982&addtag=400&ctag=73196366&lptag=10304982I244021205&itime=20230118230830&pageType=PRODUCT&pageValue=73196366&wPcid=16566832247521699889143&wRef=&wTime=20230118230830&redirect=landing&gclid=CjwKCAiAzp6eBhByEiwA_gGq5H4hkcLd87KtVgzeBkDtiHzp78bk6hIyJ0Q0cRMJZzwn2SP0ohlCuhoCMQUQAvD_BwE&campaignid=18626086777&adgroupid=&isAddedCart=)
 - [실용주의 프로그래머](http://www.yes24.com/Product/Goods/12501565)
 - [리팩토링 2판](https://www.coupang.com/vp/products/1388403622?itemId=2423947118&vendorItemId=70418019480&src=1042503&spec=10304982&addtag=400&ctag=1388403622&lptag=10304982I2423947118&itime=20230118230739&pageType=PRODUCT&pageValue=1388403622&wPcid=16566832247521699889143&wRef=&wTime=20230118230739&redirect=landing&gclid=CjwKCAiAzp6eBhByEiwA_gGq5G01rsJ0UiufsD81g956knLSybne2ArPHIiSzKkyE5w8B2j--sipeBoC-lIQAvD_BwE&campaignid=18626086777&adgroupid=&isAddedCart=)

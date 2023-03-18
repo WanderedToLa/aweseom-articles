@@ -11,6 +11,7 @@
 
 - [Type Challenges](https://github.com/type-challenges/type-challenges/blob/main/README.ko.m)⭐⭐⭐
 - [9가지 프로그래밍 언어로 배우는 개념: 1편 - 타입 이론 Devsisters Tech](https://tech.devsisters.com/posts/programming-languages-1-type-theory)
+- [타입시스템으로 산수 구현](https://itchallenger.tistory.com/482)
 - [Typescript를 위한 CleanCode](https://738.github.io/clean-code-typescript/)
 - [Typescript는 어떻게 공부해야 하나요?](https://yozm.wishket.com/magazine/detail/1376/)
 - [typescript 정리](https://inpa.tistory.com/category/Language/TypeScript)
@@ -45,6 +46,7 @@
 # Web Optimize & Utils
   
 - [웹 최적화 방식](https://black7375.tistory.com/82)
+- [Webpack → Vite: 번들러 마이그레이션 이야기](https://engineering.ab180.co/stories/webpack-to-vite)
 - [useHooks-ts](https://usehooks-ts.com/react-hook/use-boolean)
 
 
