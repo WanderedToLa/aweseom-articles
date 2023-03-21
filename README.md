@@ -1,30 +1,30 @@
 # Awesome list for FE engineer 
 
-## Category
+# 📃Category
 
-  ### MindSet
+  ### 💖MindSet
   - [???: 국영수가 코딩보다 중요해요](https://blog.kurcreative.com/kur2008300326)
   - [잘 가,클린코드](https://overreacted.io/ko/goodbye-clean-code/)
 
-  ### Front-End
+  ### 👀Front-End
   - [바로가기](./FrontEnd/README.md)
 
-  ### Paradigm / Design Pattern
+  ### 🏗️Paradigm / Design Pattern
   - [바로가기](./Paradigm/README.md)
 
-  ### DevOps
+  ### ⚙️DevOps
   - [바로가기](./DevOps/README.md)
 
-  ### CS
+  ### 🐻CS
   - [바로가기](./CS/README.md)
 
-  ### Culture
+  ### 🤝Culture
   - [바로가기](./Culture/README.md)
 
-  ### Experts
+  ### 😎Experts
   - [바로가기](./Experts/README.md)
 
-## Books
+## 📚Books
 
 - [SICP Javascript](http://www.yes24.com/Product/Goods/116469364)
 - [Code Complete2](http://www.yes24.com/Product/Goods/44130507)
@@ -34,7 +34,7 @@
 - [리팩토링 2판](https://www.coupang.com/vp/products/1388403622?itemId=2423947118&vendorItemId=70418019480&src=1042503&spec=10304982&addtag=400&ctag=1388403622&lptag=10304982I2423947118&itime=20230118230739&pageType=PRODUCT&pageValue=1388403622&wPcid=16566832247521699889143&wRef=&wTime=20230118230739&redirect=landing&gclid=CjwKCAiAzp6eBhByEiwA_gGq5G01rsJ0UiufsD81g956knLSybne2ArPHIiSzKkyE5w8B2j--sipeBoC-lIQAvD_BwE&campaignid=18626086777&adgroupid=&isAddedCart=)
 - [이산수학 Rosen](https://www.amazon.com/Discrete-Mathematics-Applications-ConnectPlus-Access/dp/0077916085/ref=sr_1_3?ie=UTF8&qid=1373709102&sr=8-3&keywords=discrete+mathematics)%EA%B3%BC)
 
-## TIPS
+## ⭐TIPS
 
 - [오픈 소스(Open-Source) 구조와 모듈 파악하기](https://kdydesign.github.io/2020/10/19/open-source-flow/)
 - [빠르게 배우는 NPM 패키지 생성부터 배포까지 완벽 가이드](https://kdydesign.github.io/2020/08/28/npm-tutorial/#npm-node-package-manager)
