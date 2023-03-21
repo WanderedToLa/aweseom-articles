@@ -1,7 +1,6 @@
 # Awesome list for FE engineer 
 
 ## Category
-<hr/>
 
   ### MindSet
   - [???: 국영수가 코딩보다 중요해요](https://blog.kurcreative.com/kur2008300326)
