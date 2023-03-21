@@ -1,5 +1,4 @@
 ## Functional Programming
-<hr/>
 
   ### Article
   - [fp-ts로 Typescript 함수형 프로그래밍 시작하기](https://alstn2468.github.io/TypeScript/2021-04-21-fp-ts-0/)
