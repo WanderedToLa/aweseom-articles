@@ -4,10 +4,16 @@
 - [React Doc](https://ko.reactjs.org/docs/getting-started.html)
 - [React Docs Beta](https://beta.reactjs.org/)
 - [Next.js Docs](https://nextjs.org/docs/getting-started)
+- [Vite](https://vitejs-kr.github.io/guide/why.html)
 - [Jest](https://jestjs.io/)
 - [Zustand Github](https://github.com/pmndrs/zustand)
 
-# Typescript
+## Library & FrameWork
+
+- [[React] 웹 동작 과정과 React의 탄생](https://velog.io/@juno7803/React%EA%B0%80-%ED%83%9C%EC%96%B4%EB%82%9C-%EB%B0%B0%EA%B2%BD)
+- [useHooks-ts](https://usehooks-ts.com/react-hook/use-boolean)
+
+## Typescript
 
 - [Type Challenges](https://github.com/type-challenges/type-challenges/blob/main/README.ko.m)⭐⭐⭐
 - [9가지 프로그래밍 언어로 배우는 개념: 1편 - 타입 이론 Devsisters Tech](https://tech.devsisters.com/posts/programming-languages-1-type-theory)
@@ -47,7 +53,6 @@
   
 - [웹 최적화 방식](https://black7375.tistory.com/82)
 - [Webpack → Vite: 번들러 마이그레이션 이야기](https://engineering.ab180.co/stories/webpack-to-vite)
-- [useHooks-ts](https://usehooks-ts.com/react-hook/use-boolean)
 
 
 # Tech Blog

@@ -15,6 +15,7 @@
 # Design Pattern
 
 - [소프트웨어 설계가 완벽할 수 없는 다섯 가지 이유](https://swarchi.tistory.com/12)
+- [Refactoring Guru](https://refactoring.guru/refactoring/what-is-refactoring)
 
 - ## Article
 

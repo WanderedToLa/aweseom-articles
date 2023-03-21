@@ -1,14 +1,11 @@
-# Gather Link to programming for information
-
-- Do not provide about tech or a guide to becoming a better programmer _this is just link_
+# Awesome list about Programming 
 
 ## MindSet
 
 - [???: 국영수가 코딩보다 중요해요](https://blog.kurcreative.com/kur2008300326)
+- [잘 가,클린코드](https://overreacted.io/ko/goodbye-clean-code/)
 
 ## 🎹 Front-End
-
-> How to become a great FE dev
 
 - [바로가기](./FrontEnd/README.md)
 
@@ -30,11 +27,13 @@
   - [모두의 코드 - 씹어먹는 C++](https://modoocode.com/135)
 
 - [Compiler](https://www.youtube.com/watch?v=MAG4ten4nAM&list=PLalDxVXf3NHertbSsvTLOLZz0T3FyCQnI)
+- [MIT OpenCourseWare - Computation](https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 - [Introduction to Computer Networking Stanford University](https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z)
 - [UC Berkeley Computer Science](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=-publicdate)
 - [NEW 이산수학 (대학수학기초) 이상준 경희대 교수](https://www.youtube.com/watch?v=pNPowcLmVus&list=PLaqQvlCBe8vLrmtPgU7DV6r7Ofk43dB0m)
 - [Lovász 교수의 이산수학](https://cims.nyu.edu/~regev/teaching/discrete_math_fall_2005/dmbook.pdf)
 - [선형대수 기초](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [PS/PS 정수론 가이드](https://rkm0959.tistory.com/category/PS/PS%20%EC%A0%95%EC%88%98%EB%A1%A0%20%EA%B0%80%EC%9D%B4%EB%93%9C?page=2)
 - [동시성 , 병렬 , 비동기 ...](https://black7375.tistory.com/90)
 
 ## OS
@@ -72,5 +71,7 @@
 
 ## TIPS
 
+- [오픈 소스(Open-Source) 구조와 모듈 파악하기](https://kdydesign.github.io/2020/10/19/open-source-flow/)
+- [빠르게 배우는 NPM 패키지 생성부터 배포까지 완벽 가이드](https://kdydesign.github.io/2020/08/28/npm-tutorial/#npm-node-package-manager)
 - [Webstorm 단축키](https://webisfree.com/2019-12-24/%EC%9B%B9%EC%8A%A4%ED%86%B0(webstorm)-ide-%EB%8B%A8%EC%B6%95%ED%82%A4-%EC%A0%95%EB%B3%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
 - [스시 오마카세 리스트](https://github.com/738/awesome-sushi)
