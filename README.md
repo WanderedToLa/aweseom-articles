@@ -1,63 +1,29 @@
-# Awesome list about Programming 
+# Awesome list for FE engineer 
 
-## MindSet
+## Category
+<hr/>
 
-- [???: 국영수가 코딩보다 중요해요](https://blog.kurcreative.com/kur2008300326)
-- [잘 가,클린코드](https://overreacted.io/ko/goodbye-clean-code/)
+  ### MindSet
+  - [???: 국영수가 코딩보다 중요해요](https://blog.kurcreative.com/kur2008300326)
+  - [잘 가,클린코드](https://overreacted.io/ko/goodbye-clean-code/)
 
-## 🎹 Front-End
+  ### Front-End
+  - [바로가기](./FrontEnd/README.md)
 
-- [바로가기](./FrontEnd/README.md)
+  ### Paradigm / Design Pattern
+  - [바로가기](./Paradigm/README.md)
 
-## 🎨 Paradigm / Design Pattern
+  ### DevOps
+  - [바로가기](./DevOps/README.md)
 
-> Programming Perspective
+  ### CS
+  - [바로가기](./CS/README.md)
 
-- [바로가기](./Paradigm/README.md)
+  ### Culture
+  - [바로가기](./Culture/README.md)
 
-## 📸 DevOps
-
-> Development environment
-
-- [바로가기](./DevOps/README.md)
-
-## 💻 CS / NETWORK
-
-- ## C++
-  - [모두의 코드 - 씹어먹는 C++](https://modoocode.com/135)
-
-- [Compiler](https://www.youtube.com/watch?v=MAG4ten4nAM&list=PLalDxVXf3NHertbSsvTLOLZz0T3FyCQnI)
-- [MIT OpenCourseWare - Computation](https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
-- [Introduction to Computer Networking Stanford University](https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z)
-- [UC Berkeley Computer Science](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=-publicdate)
-- [NEW 이산수학 (대학수학기초) 이상준 경희대 교수](https://www.youtube.com/watch?v=pNPowcLmVus&list=PLaqQvlCBe8vLrmtPgU7DV6r7Ofk43dB0m)
-- [Lovász 교수의 이산수학](https://cims.nyu.edu/~regev/teaching/discrete_math_fall_2005/dmbook.pdf)
-- [선형대수 기초](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-- [PS/PS 정수론 가이드](https://rkm0959.tistory.com/category/PS/PS%20%EC%A0%95%EC%88%98%EB%A1%A0%20%EA%B0%80%EC%9D%B4%EB%93%9C?page=2)
-- [동시성 , 병렬 , 비동기 ...](https://black7375.tistory.com/90)
-
-## OS
-
-- [Operating Systems: Three Easy Pieces - PDF](https://pages.cs.wisc.edu/~remzi/OSTEP/)
-- [리눅스 기초](https://www.youtube.com/watch?v=tPWBF13JIVk&t=1s)
-- [Linux Kernel Development 책](https://github.com/minnsane/TeachYourselfCS-KR)
-
-## ETC
-
-- ## Lecture
-  - [KOCW 무료대학공개강의](http://www.kocw.net/home/index.do)
-  - [KMOOC](http://www.kmooc.kr/)
-
-- [JavaScript 번들러로 본 조선시대 붕당의 이해](https://wormwlrm.github.io/2020/08/12/History-of-JavaScript-Modules-and-Bundlers.html)
-- [코드 리뷰 in 뱅크샐러드 개발 문화](https://blog.banksalad.com/tech/banksalad-code-review-culture/)
-- [클래스 101 코드 컨벤션](https://jobs.class101.net/1dc83442-c2d4-4162-94ae-4d04717f1ae0)
-- [주니어 개발자들의 (얕은) 코드리뷰 도입기](https://shinsunyoung.tistory.com/92)
-- [배민 코드리뷰 문화](https://story.baemin.com/2219/)
-- [토스ㅣSLASH 21 - 토스팀을 위한 슬랙봇 설계](https://www.youtube.com/watch?v=EChKnpxgX-4&t=305s)
-
-## Experts
-
-- [바로가기](./Experts/README.md)
+  ### Experts
+  - [바로가기](./Experts/README.md)
 
 ## Books
 
