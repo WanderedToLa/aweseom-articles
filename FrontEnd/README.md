@@ -59,6 +59,7 @@
   
 - [웹 최적화 방식](https://black7375.tistory.com/82)
 - [Webpack → Vite: 번들러 마이그레이션 이야기](https://engineering.ab180.co/stories/webpack-to-vite)
+- [Fastest Frontend Tooling in 2023](https://cpojer.net/posts/fastest-frontend-tooling-in-2022)
 
 
 ## Tech Blog
