@@ -6,6 +6,7 @@
   ### 💖MindSet
   - [???: 국영수가 코딩보다 중요해요](https://blog.kurcreative.com/kur2008300326)
   - [잘 가,클린코드](https://overreacted.io/ko/goodbye-clean-code/)
+  - [It's probably time to stop recommending Clean Code](https://qntm.org/clean)
 
   ### 👀Front-End
   - [바로가기](./FrontEnd/README.md)
