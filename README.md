@@ -1,30 +1,39 @@
-# Awesome list for FE engineer 
+# Awesome list for FE engineer
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 # 📃Category
 
-  ### 💖MindSet
-  - [???: 국영수가 코딩보다 중요해요](https://blog.kurcreative.com/kur2008300326)
-  - [잘 가,클린코드](https://overreacted.io/ko/goodbye-clean-code/)
-  - [It's probably time to stop recommending Clean Code](https://qntm.org/clean)
+### 💖MindSet
 
-  ### 👀Front-End
-  - [바로가기](./FrontEnd/README.md)
+- [edykim](https://edykim.com/ko/archives/)
+- [???: 국영수가 코딩보다 중요해요](https://blog.kurcreative.com/kur2008300326)
+- [잘 가,클린코드](https://overreacted.io/ko/goodbye-clean-code/)
+- [It's probably time to stop recommending Clean Code](https://qntm.org/clean)
 
-  ### 🏗️Paradigm / Design Pattern
-  - [바로가기](./Paradigm/README.md)
+### 👀Front-End
 
-  ### ⚙️DevOps
-  - [바로가기](./DevOps/README.md)
+- [바로가기](./FrontEnd/README.md)
 
-  ### 🐻CS
-  - [바로가기](./CS/README.md)
+### 🏗️Paradigm / Design Pattern
 
-  ### 🤝Culture
-  - [바로가기](./Culture/README.md)
+- [바로가기](./Paradigm/README.md)
 
-  ### 😎Experts
-  - [바로가기](./Experts/README.md)
+### ⚙️DevOps
+
+- [바로가기](./DevOps/README.md)
+
+### 🐻CS
+
+- [바로가기](./CS/README.md)
+
+### 🤝Culture
+
+- [바로가기](./Culture/README.md)
+
+### 😎Experts
+
+- [바로가기](./Experts/README.md)
 
 ## 📚Books
 
@@ -40,5 +49,5 @@
 
 - [오픈 소스(Open-Source) 구조와 모듈 파악하기](https://kdydesign.github.io/2020/10/19/open-source-flow/)
 - [빠르게 배우는 NPM 패키지 생성부터 배포까지 완벽 가이드](https://kdydesign.github.io/2020/08/28/npm-tutorial/#npm-node-package-manager)
-- [Webstorm 단축키](https://webisfree.com/2019-12-24/%EC%9B%B9%EC%8A%A4%ED%86%B0(webstorm)-ide-%EB%8B%A8%EC%B6%95%ED%82%A4-%EC%A0%95%EB%B3%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
+- [Webstorm 단축키](<https://webisfree.com/2019-12-24/%EC%9B%B9%EC%8A%A4%ED%86%B0(webstorm)-ide-%EB%8B%A8%EC%B6%95%ED%82%A4-%EC%A0%95%EB%B3%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0>)
 - [스시 오마카세 리스트](https://github.com/738/awesome-sushi)
