@@ -14,6 +14,7 @@
 - [useHooks-ts](https://usehooks-ts.com/react-hook/use-boolean)
 - [Next/Image를 활용한 이미지 최적화 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220714-next-image/)
 - [[번역] 잘 알려진 UI 패턴을 사용하여 리액트 애플리케이션 모듈화하기](https://velog.io/@eunbinn/modularizing-react-apps)
+- [[번역] 리액트, 널 사랑하지만 넌 나를 슬프게 해](https://velog.io/@eunbinn/react-i-love-you-but-youre-bringing-me-down?fbclid=IwAR1-5XmYt_xrdHk4nDNL8hmJpeKn5Kc5xytW607WuwPxg-8NeIojeAY0KQA)
 
 ## Javascript
 
@@ -22,6 +23,8 @@
 - [제너레이터](https://ko.javascript.info/generators)
 - [이터러블 / 이터레이터](https://inpa.tistory.com/entry/JS-%F0%9F%93%9A-%EC%9D%B4%ED%84%B0%EB%9F%AC%EB%B8%94-%EC%9D%B4%ED%84%B0%EB%A0%88%EC%9D%B4%ED%84%B0-%F0%9F%92%AF%EC%99%84%EB%B2%BD-%EC%9D%B4%ED%95%B4)
 - [아니 X발? 자바스크립트 이게 뭐야??](https://github.com/denysdovhan/wtfjs/blob/master/README-kr.md)
+- [ECMAScript 명세 이해](https://ui.toast.com/posts/ko_20221116_1)
+- [자바스크립트 v8 엔진의 가비지 컬렉션 동작 방식](https://fe-developers.kakaoent.com/2022/220519-garbage-collection/)
 
 ## Typescript
 
