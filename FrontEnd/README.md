@@ -39,12 +39,10 @@
 - [Using Tagged Unions](https://greg-pabian.medium.com/using-tagged-unions-84705459107a)
 
 - [Type VS Interface](https://medium.com/humanscape-tech/type-vs-interface-%EC%96%B8%EC%A0%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-f36499b0de50)
-- [Type VS Interface 2](https://tecoble.techcourse.co.kr/post/2022-11-07-typeAlias-interface/)
+- [Type VS Interface 2](https://tecoble.techcourse.co.kr/post/2022-11-07-typeAlias-interface/)S
 
-  > 타입과 인터페이스중 어떤것을 사용할지
-
-## TEST
-
+## Unit Test
+S
 - [how to jest Coverage](https://www.daleseo.com/jest-coverage/)
 - [토스ㅣSLASH 21 - 테스트 커버리지 100%](https://www.youtube.com/watch?v=jdlBu2vFv58)
 - [[A5] 프론트엔드에서 TDD가 가능하다는 것을 보여드립니다.](https://www.youtube.com/watch?v=L1dtkLeIz-M&t=1729s)
@@ -54,9 +52,8 @@
 
 - [if kakao sentry를 이용한 에러추적](https://if.kakao.com/2022/session/84)
 - [Sentry DOC](https://docs.sentry.io/)
-- [adrenaline Github](https://github.com/shobrook/adrenaline/)
+- [adrenaline Github (GPT 기반 Debug tool)](https://github.com/shobrook/adrenaline/)
 
-  > chatGPT 기반 디버그 툴
 
 ## State Manager
 

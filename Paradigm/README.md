@@ -8,6 +8,7 @@
   - [Elixir에 대하여 / 개발자 부족의 시대, Elixir가 특효약이 될수 있는 이유](https://www.youtube.com/watch?v=lAaD-6OQSHE)
   - [FP 패러다임의 전환](https://kpug.github.io/fp-gitbook/Chapter1.html)
   - [함수형 프로그래밍을 배워보자 - javascript](https://velog.io/@teo/functional-programming-study)
+  - [함수형 프로그래밍이 중요한 이유](https://parksb.github.io/papers-i-love/why-functional-programming-matters.html)
 
 ## Design Pattern
 
