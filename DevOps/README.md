@@ -6,9 +6,7 @@
 - [LightHouse CI to GithubActions(Kakao)](https://fe-developers.kakaoent.com/2022/220602-lighthouse-with-github-actions/)
 - [뱅크샐러드 Web chapter에서 GitHub Action 기반의 CI 속도를 개선한 방법](https://blog.banksalad.com/tech/github-action-npm-cache/)
 - [10x Faster CI with Nx and Github Actions](https://medium.com/emoteev-blog/10x-faster-ci-with-nx-and-github-actions-9a51fc4e82a6)
-
 - [pr-labeler-action](https://github.com/netlify/pr-labeler-action/blob/main/src/index.ts)
-  > Github action 라이브러리 사용하지않고 커스텀 해서 사용할 때 pr-labeler-action 은 예시 코드
 
 ## Git
 

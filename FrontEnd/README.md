@@ -37,12 +37,11 @@
 - [Template Literal Types로 타입 안전하게 코딩하기](https://toss.tech/article/template-literal-types)
 - [Bringing Pattern Matching to TypeScript 🎨 Introducing TS-Pattern v3.0](https://dev.to/gvergnaud/bringing-pattern-matching-to-typescript-introducing-ts-pattern-v3-0-o1k)
 - [Using Tagged Unions](https://greg-pabian.medium.com/using-tagged-unions-84705459107a)
-
 - [Type VS Interface](https://medium.com/humanscape-tech/type-vs-interface-%EC%96%B8%EC%A0%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-f36499b0de50)
 - [Type VS Interface 2](https://tecoble.techcourse.co.kr/post/2022-11-07-typeAlias-interface/)S
 
 ## Unit Test
-S
+
 - [how to jest Coverage](https://www.daleseo.com/jest-coverage/)
 - [토스ㅣSLASH 21 - 테스트 커버리지 100%](https://www.youtube.com/watch?v=jdlBu2vFv58)
 - [[A5] 프론트엔드에서 TDD가 가능하다는 것을 보여드립니다.](https://www.youtube.com/watch?v=L1dtkLeIz-M&t=1729s)
