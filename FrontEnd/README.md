@@ -51,7 +51,7 @@
 - [Webpack → Vite: 번들러 마이그레이션 이야기](https://engineering.ab180.co/stories/webpack-to-vite)
 - [Fastest Frontend Tooling in 2023](https://cpojer.net/posts/fastest-frontend-tooling-in-2022)
 - [Headless UI Library 란?](https://jbee.io/react/headless-concept/)
-
+- [React VS Signals](https://junghan92.medium.com/%EB%A6%AC%EC%95%A1%ED%8A%B8-vs-signals-10%EB%85%84%EC%9D%B4-%EC%A7%80%EB%82%9C-%EC%A7%80%EA%B8%88-89e5c648c2e8)
 
 ## Tech Blog
 

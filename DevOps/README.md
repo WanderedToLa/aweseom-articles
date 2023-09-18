@@ -15,9 +15,10 @@
 
 ## AWS
 
-  ### EC2
-  - [AWS EC2에 NEXT.js 배포하기](https://velog.io/@yoondengo/AWS-EC2-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%EC%97%90-Next.js-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%98%AC%EB%A0%A4%EB%B3%B4%EA%B8%B0#%EB%82%A8%EC%9D%98-%EC%BB%B4%ED%93%A8%ED%84%B0%EC%97%90-%EC%9D%B4%EA%B2%83-%EC%A0%80%EA%B2%83-%EA%B9%94%EA%B3%A0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%8F%84-%EC%98%AC%EB%A6%AC%EA%B8%B0)
-  - [EC2에 GitHub Actions self-hosted runner 띄우기](https://wonny.space/writing/dev/github-actions-self-hosted-runnder-on-ec2)
+### EC2
+
+- [AWS EC2에 NEXT.js 배포하기](https://velog.io/@yoondengo/AWS-EC2-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%EC%97%90-Next.js-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%98%AC%EB%A0%A4%EB%B3%B4%EA%B8%B0#%EB%82%A8%EC%9D%98-%EC%BB%B4%ED%93%A8%ED%84%B0%EC%97%90-%EC%9D%B4%EA%B2%83-%EC%A0%80%EA%B2%83-%EA%B9%94%EA%B3%A0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%8F%84-%EC%98%AC%EB%A6%AC%EA%B8%B0)
+- [EC2에 GitHub Actions self-hosted runner 띄우기](https://wonny.space/writing/dev/github-actions-self-hosted-runnder-on-ec2)
 
 ## Monorepo
 
@@ -26,4 +27,6 @@
 
 ## ETC
 
+- [오픈 소스(Open-Source) 구조와 모듈 파악하기](https://kdydesign.github.io/2020/10/19/open-source-flow/)
+- [빠르게 배우는 NPM 패키지 생성부터 배포까지 완벽 가이드](https://kdydesign.github.io/2020/08/28/npm-tutorial/#npm-node-package-manager)
 - [프론트엔드 성능분석하기](https://codingmoondoll.tistory.com/entry/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-Quick-Start-1)
