@@ -6,7 +6,7 @@
 
 ### Blog & videos
 
-- [웹 어셈블리에 주목하라](https://medium.com/@yujso66/%EB%B2%88%EC%97%AD-%EC%9B%B9%EC%96%B4%EC%85%88%EB%B8%9[…]6%AC%EC%97%90-%EC%A3%BC%EB%AA%A9%ED%95%98%EB%9D%BC-280ff4e9ce01)
+- [웹 어셈블리에 주목하라](https://medium.com/@yujso66/%EB%B2%88%EC%97%AD-%EC%9B%B9%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC%EC%97%90-%EC%A3%BC%EB%AA%A9%ED%95%98%EB%9D%BC-280ff4e9ce01)
 - [Jim Keller: The Future of Computing, AI, Life, and Consciousness | Lex Fridman Podcast #162](https://www.youtube.com/watch?v=G4hL5Om4IJ4)
 - [cho.sh](https://cho.sh/ko/)
 - [edykim](https://edykim.com/ko/archives/)
