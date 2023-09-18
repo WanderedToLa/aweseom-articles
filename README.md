@@ -30,7 +30,7 @@
 
 - [바로가기](./CS/README.md)
 
-## 📚Books
+## Books
 
 - [SICP Javascript](http://www.yes24.com/Product/Goods/116469364)
 - [Code Complete2](http://www.yes24.com/Product/Goods/44130507)
