@@ -6,19 +6,16 @@
 
 ### Blog & videos
 
-- [웹 어셈블리에 주목하라](https://medium.com/@yujso66/%EB%B2%88%EC%97%AD-%EC%9B%B9%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC%EC%97%90-%EC%A3%BC%EB%AA%A9%ED%95%98%EB%9D%BC-280ff4e9ce01)
-- [Jim Keller: The Future of Computing, AI, Life, and Consciousness | Lex Fridman Podcast #162](https://www.youtube.com/watch?v=G4hL5Om4IJ4)
 - [cho.sh](https://cho.sh/ko/)
 - [edykim](https://edykim.com/ko/archives/)
 - [???: 국영수가 코딩보다 중요해요](https://blog.kurcreative.com/kur2008300326)
-- [잘 가,클린코드](https://overreacted.io/ko/goodbye-clean-code/)
 - [It's probably time to stop recommending Clean Code](https://qntm.org/clean)
 
 ### Front-End
 
 - [바로가기](./FrontEnd/README.md)
 
-### Paradigm / Design Pattern
+### Paradigm
 
 - [바로가기](./Paradigm/README.md)
 

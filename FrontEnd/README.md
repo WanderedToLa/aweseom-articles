@@ -1,15 +1,6 @@
-## Stacks
+## Articles
 
-- [Typescript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
-- [React Doc](https://ko.reactjs.org/docs/getting-started.html)
-- [React Docs Beta](https://beta.reactjs.org/)
-- [Next.js Docs](https://nextjs.org/docs/getting-started)
-- [Vite](https://vitejs-kr.github.io/guide/why.html)
-- [Jest](https://jestjs.io/)
-- [Zustand Github](https://github.com/pmndrs/zustand)
-
-## Javascript
-
+- [웹 어셈블리에 주목하라](https://medium.com/@yujso66/%EB%B2%88%EC%97%AD-%EC%9B%B9%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC%EC%97%90-%EC%A3%BC%EB%AA%A9%ED%95%98%EB%9D%BC-280ff4e9ce01)
 - [return `null` vs `undefined`](https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/return-null-vs-undefined.md#%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-null-vs-undefined)
 - [JavaScript 번들러로 본 조선시대 붕당의 이해](https://wormwlrm.github.io/2020/08/12/History-of-JavaScript-Modules-and-Bundlers.html)
 - [제너레이터](https://ko.javascript.info/generators)
@@ -17,11 +8,6 @@
 - [아니 X발? 자바스크립트 이게 뭐야??](https://github.com/denysdovhan/wtfjs/blob/master/README-kr.md)
 - [ECMAScript 명세 이해](https://ui.toast.com/posts/ko_20221116_1)
 - [자바스크립트 v8 엔진의 가비지 컬렉션 동작 방식](https://fe-developers.kakaoent.com/2022/220519-garbage-collection/)
-
-## Typescript
-
-- [Type Challenges](https://github.com/type-challenges/type-challenges/blob/main/README.ko.m)⭐⭐⭐
-- [9가지 프로그래밍 언어로 배우는 개념: 1편 - 타입 이론 Devsisters Tech](https://tech.devsisters.com/posts/programming-languages-1-type-theory)
 - [타입시스템으로 산수 구현](https://itchallenger.tistory.com/482)
 - [Typescript를 위한 CleanCode](https://738.github.io/clean-code-typescript/)
 - [Typescript는 어떻게 공부해야 하나요?](https://yozm.wishket.com/magazine/detail/1376/)
@@ -31,9 +17,6 @@
 - [Using Tagged Unions](https://greg-pabian.medium.com/using-tagged-unions-84705459107a)
 - [Type VS Interface](https://medium.com/humanscape-tech/type-vs-interface-%EC%96%B8%EC%A0%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-f36499b0de50)
 - [Type VS Interface 2](https://tecoble.techcourse.co.kr/post/2022-11-07-typeAlias-interface/)
-
-## Article
-
 - [[React] 웹 동작 과정과 React의 탄생](https://velog.io/@juno7803/React%EA%B0%80-%ED%83%9C%EC%96%B4%EB%82%9C-%EB%B0%B0%EA%B2%BD)
 - [useHooks-ts](https://usehooks-ts.com/react-hook/use-boolean)
 - [Next/Image를 활용한 이미지 최적화 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220714-next-image/)
@@ -52,10 +35,3 @@
 - [Fastest Frontend Tooling in 2023](https://cpojer.net/posts/fastest-frontend-tooling-in-2022)
 - [Headless UI Library 란?](https://jbee.io/react/headless-concept/)
 - [React VS Signals](https://junghan92.medium.com/%EB%A6%AC%EC%95%A1%ED%8A%B8-vs-signals-10%EB%85%84%EC%9D%B4-%EC%A7%80%EB%82%9C-%EC%A7%80%EA%B8%88-89e5c648c2e8)
-
-## Tech Blog
-
-- [Toast UI guide](https://ui.toast.com/fe-guide/ko)
-- [디자인 시스템 FEconf2022](https://so-so.dev/react/design-system-decision-record/)
-- [화해 tech 블로그](https://blog.hwahae.co.kr/category/all/tech) 🥇
-- [if kakao conf 2022](https://if.kakao.com/session?t.bab36uRci8=2&f.2gB2OPT7YO.GgWcMRm0cNSS=fe) 🥇
