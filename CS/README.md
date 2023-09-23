@@ -12,7 +12,6 @@
 - [MIT OpenCourseWare - Computation](https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 - [Introduction to Computer Networking Stanford University](https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z)
 - [UC Berkeley Computer Science](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=-publicdate)
-- [NEW 이산수학 (대학수학기초) 이상준 경희대 교수](https://www.youtube.com/watch?v=pNPowcLmVus&list=PLaqQvlCBe8vLrmtPgU7DV6r7Ofk43dB0m)
 - [KOCW 무료대학공개강의](http://www.kocw.net/home/index.do)
 - [KMOOC](http://www.kmooc.kr/)
 - [모두를 위한 컴퓨터과학(CS50 2019)](https://m.boostcourse.org/cs112/intro)
