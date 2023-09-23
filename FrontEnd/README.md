@@ -28,7 +28,6 @@
 - [테스트하기 좋은 코드](https://jojoldu.tistory.com/680)
 - [if kakao sentry를 이용한 에러추적](https://if.kakao.com/2022/session/84)
 - [Sentry DOC](https://docs.sentry.io/)
-- [adrenaline Github (GPT 기반 Debug tool)](https://github.com/shobrook/adrenaline/)
 - [Redux Nomalize](https://jbee.io/react/react-redux-normalize/)
 - [웹 최적화 방식](https://black7375.tistory.com/82)
 - [Webpack → Vite: 번들러 마이그레이션 이야기](https://engineering.ab180.co/stories/webpack-to-vite)
