@@ -107,6 +107,7 @@ A curated list for aspiring developers.
 - [KMOOC](http://www.kmooc.kr/)
 - [모두를 위한 컴퓨터과학(CS50 2019)](https://m.boostcourse.org/cs112/intro)
 - [Compiler](https://www.youtube.com/watch?v=MAG4ten4nAM&list=PLalDxVXf3NHertbSsvTLOLZz0T3FyCQnI)
+- [주석에 욕설이 있는 코드는 욕설이 없는 코드보다 품질이 더 좋습니다.](https://news.hada.io/topic?id=9662)
 
 ### 수학
 
