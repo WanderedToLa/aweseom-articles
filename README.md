@@ -135,3 +135,4 @@ A curated list for aspiring developers.
 
 - ### C/C++
   - [모두의 코드 - 씹어먹는 C++](https://modoocode.com/135)
+  - [Undefined Behavior](https://dev.alliknow.info/posts/2023/5/undefined-behavior)
