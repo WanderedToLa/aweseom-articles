@@ -93,20 +93,20 @@ A curated list for aspiring developers.
 - [Linux Kernel Development](https://github.com/minnsane/TeachYourselfCS-KR)
 - [동시성 , 병렬 , 비동기 ...](https://black7375.tistory.com/90)
 - [오토마타 이론](https://m.blog.naver.com/bestowing?categoryNo=32)
+- [모두를 위한 컴퓨터과학(CS50 2019)](https://m.boostcourse.org/cs112/intro)
+- [Compiler](https://www.youtube.com/watch?v=MAG4ten4nAM&list=PLalDxVXf3NHertbSsvTLOLZz0T3FyCQnI)
+- [UC Berkeley Computer Science](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=-publicdate)
+- [MIT OpenCourseWare - Computation](https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
+- [Introduction to Computer Networking Stanford University](https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z)
+- [Putting the “You” in CPU](https://cpu.land/)
 
-### Blogs & videos
+### Habits
 
+- [GeekNews](https://news.hada.io/)
 - [cho.sh](https://cho.sh/ko/)
 - [edykim](https://edykim.com/ko/archives/)
 - [???: 국영수가 코딩보다 중요해요](https://blog.kurcreative.com/kur2008300326)
 - [It's probably time to stop recommending Clean Code](https://qntm.org/clean)
-- [MIT OpenCourseWare - Computation](https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
-- [Introduction to Computer Networking Stanford University](https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z)
-- [UC Berkeley Computer Science](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=-publicdate)
-- [KOCW 무료대학공개강의](http://www.kocw.net/home/index.do)
-- [KMOOC](http://www.kmooc.kr/)
-- [모두를 위한 컴퓨터과학(CS50 2019)](https://m.boostcourse.org/cs112/intro)
-- [Compiler](https://www.youtube.com/watch?v=MAG4ten4nAM&list=PLalDxVXf3NHertbSsvTLOLZz0T3FyCQnI)
 
 ### 수학
 
@@ -124,6 +124,7 @@ A curated list for aspiring developers.
 - [실용주의 프로그래머](http://www.yes24.com/Product/Goods/12501565)
 - [리팩토링 2판](https://www.coupang.com/vp/products/1388403622?itemId=2423947118&vendorItemId=70418019480&src=1042503&spec=10304982&addtag=400&ctag=1388403622&lptag=10304982I2423947118&itime=20230118230739&pageType=PRODUCT&pageValue=1388403622&wPcid=16566832247521699889143&wRef=&wTime=20230118230739&redirect=landing&gclid=CjwKCAiAzp6eBhByEiwA_gGq5G01rsJ0UiufsD81g956knLSybne2ArPHIiSzKkyE5w8B2j--sipeBoC-lIQAvD_BwE&campaignid=18626086777&adgroupid=&isAddedCart=)
 - [이산수학 Rosen](https://www.amazon.com/Discrete-Mathematics-Applications-ConnectPlus-Access/dp/0077916085/ref=sr_1_3?ie=UTF8&qid=1373709102&sr=8-3&keywords=discrete+mathematics)%EA%B3%BC)
+- [밑바닥부터 만드는 인터프리터 in Go](https://www.yes24.com/Product/Goods/103157156)
 
 ### Tips
 
@@ -131,6 +132,10 @@ A curated list for aspiring developers.
 - [스시 오마카세 리스트](https://github.com/738/awesome-sushi)
 
 ## Others
+
+- [KOCW 무료대학공개강의](http://www.kocw.net/home/index.do)
+- [KMOOC](http://www.kmooc.kr/)
+- [프로그래밍 언어론](http://www.kocw.net/home/search/kemView.do?kemId=1331791&ar=relateCourse)
 
 - ### C/C++
   - [모두의 코드 - 씹어먹는 C++](https://modoocode.com/135)
