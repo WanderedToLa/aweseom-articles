@@ -107,6 +107,7 @@ A curated list for aspiring developers.
 - [edykim](https://edykim.com/ko/archives/)
 - [???: 국영수가 코딩보다 중요해요](https://blog.kurcreative.com/kur2008300326)
 - [It's probably time to stop recommending Clean Code](https://qntm.org/clean)
+- [주석에 욕설이 있는 코드는 욕설이 없는 코드보다 품질이 더 좋습니다.](https://news.hada.io/topic?id=9662)
 
 ### 수학
 
@@ -139,3 +140,4 @@ A curated list for aspiring developers.
 
 - ### C/C++
   - [모두의 코드 - 씹어먹는 C++](https://modoocode.com/135)
+  - [Undefined Behavior](https://dev.alliknow.info/posts/2023/5/undefined-behavior)
