@@ -100,15 +100,6 @@ A curated list for aspiring developers.
 - [Introduction to Computer Networking Stanford University](https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z)
 - [Putting the “You” in CPU](https://cpu.land/)
 
-### Habits
-
-- [GeekNews](https://news.hada.io/)
-- [cho.sh](https://cho.sh/ko/)
-- [edykim](https://edykim.com/ko/archives/)
-- [???: 국영수가 코딩보다 중요해요](https://blog.kurcreative.com/kur2008300326)
-- [It's probably time to stop recommending Clean Code](https://qntm.org/clean)
-- [주석에 욕설이 있는 코드는 욕설이 없는 코드보다 품질이 더 좋습니다.](https://news.hada.io/topic?id=9662)
-
 ### 수학
 
 - [Lovász 교수의 이산수학](https://cims.nyu.edu/~regev/teaching/discrete_math_fall_2005/dmbook.pdf)
@@ -133,6 +124,14 @@ A curated list for aspiring developers.
 - [스시 오마카세 리스트](https://github.com/738/awesome-sushi)
 
 ## Others
+
+- [GeekNews](https://news.hada.io/)
+- [cho.sh](https://cho.sh/ko/)
+- [edykim](https://edykim.com/ko/archives/)
+- [Josh W Comeau](https://www.joshwcomeau.com/)
+- [???: 국영수가 코딩보다 중요해요](https://blog.kurcreative.com/kur2008300326)
+- [It's probably time to stop recommending Clean Code](https://qntm.org/clean)
+- [주석에 욕설이 있는 코드는 욕설이 없는 코드보다 품질이 더 좋습니다.](https://news.hada.io/topic?id=9662)
 
 - [KOCW 무료대학공개강의](http://www.kocw.net/home/index.do)
 - [KMOOC](http://www.kmooc.kr/)
