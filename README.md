@@ -57,6 +57,7 @@ A curated list for aspiring developers.
 
 ### Paradigm
 
+- [[GN#174] 함수형 프로그래밍이 소프트웨어 개발의 미래가 되어야 하는 이유](https://news.hada.io/weekly/202245)
 - [9가지 프로그래밍 언어로 배우는 개념: 1편 - 타입 이론 Devsisters Tech](https://tech.devsisters.com/posts/programming-languages-1-type-theory)
 - [잘 가,클린코드](https://overreacted.io/ko/goodbye-clean-code/)
 - [fp-ts로 Typescript 함수형 프로그래밍 시작하기](https://alstn2468.github.io/TypeScript/2021-04-21-fp-ts-0/)
