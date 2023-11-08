@@ -17,6 +17,10 @@ A curated list for aspiring developers.
 ### Front-End
 
 - [웹 어셈블리에 주목하라](https://medium.com/@yujso66/%EB%B2%88%EC%97%AD-%EC%9B%B9%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC%EC%97%90-%EC%A3%BC%EB%AA%A9%ED%95%98%EB%9D%BC-280ff4e9ce01)
+- [성능 최적화](https://ui.toast.com/fe-guide/ko_PERFORMANCE)
+- [움짤로 보는 자바스크립트 동작원리](https://kkangdda.tistory.com/78?category=830981)
+- [React.memo() 현명하게 사용하기](https://ui.toast.com/weekly-pick/ko_20190731)
+- [useState를 남용하지 마세요](https://www.philly.im/blog/dont-over-use-state)
 - [return `null` vs `undefined`](https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/return-null-vs-undefined.md#%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-null-vs-undefined)
 - [JavaScript 번들러로 본 조선시대 붕당의 이해](https://wormwlrm.github.io/2020/08/12/History-of-JavaScript-Modules-and-Bundlers.html)
 - [제너레이터](https://ko.javascript.info/generators)
