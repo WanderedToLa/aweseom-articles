@@ -137,6 +137,7 @@ A curated list for aspiring developers.
 - [???: 국영수가 코딩보다 중요해요](https://blog.kurcreative.com/kur2008300326)
 - [It's probably time to stop recommending Clean Code](https://qntm.org/clean)
 - [주석에 욕설이 있는 코드는 욕설이 없는 코드보다 품질이 더 좋습니다.](https://news.hada.io/topic?id=9662)
+- [[GN#167] 프로그래밍 무료 학습 자료 모음 | GeekNews](https://news.hada.io/weekly/202238)
 
 - [KOCW 무료대학공개강의](http://www.kocw.net/home/index.do)
 - [KMOOC](http://www.kmooc.kr/)
