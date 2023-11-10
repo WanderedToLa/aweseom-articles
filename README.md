@@ -12,7 +12,7 @@ A curated list for aspiring developers.
 - [수학](#수학)
 - [Books](#books)
 - [Tips](#tips)
-- [Others](#others)
+- [ETC](#etc)
 
 ## Front-End
 
@@ -139,12 +139,15 @@ A curated list for aspiring developers.
 - [Webstorm 단축키](<https://webisfree.com/2019-12-24/%EC%9B%B9%EC%8A%A4%ED%86%B0(webstorm)-ide-%EB%8B%A8%EC%B6%95%ED%82%A4-%EC%A0%95%EB%B3%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0>)
 - [스시 오마카세 리스트](https://github.com/738/awesome-sushi)
 
-## Others
+## ETC
 
 - [GeekNews](https://news.hada.io/)
-- [cho.sh](https://cho.sh/ko/)
-- [edykim](https://edykim.com/ko/archives/)
-- [Josh W Comeau](https://www.joshwcomeau.com/)
+- [Hacker News](https://news.ycombinator.com/)
+- [[Blog] cho.sh](https://cho.sh/ko/)
+- [[Blog] edykim](https://edykim.com/ko/archives/)
+- [[Blog] Josh W Comeau](https://www.joshwcomeau.com/)
+- [[Blog] Development & Investing](https://itchallenger.tistory.com/)
+- [[Blog] BlaCk_Log](https://black7375.tistory.com/)
 - [???: 국영수가 코딩보다 중요해요](https://blog.kurcreative.com/kur2008300326)
 - [It's probably time to stop recommending Clean Code](https://qntm.org/clean)
 - [주석에 욕설이 있는 코드는 욕설이 없는 코드보다 품질이 더 좋습니다.](https://news.hada.io/topic?id=9662)
