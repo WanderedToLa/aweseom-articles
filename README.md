@@ -49,6 +49,7 @@ A curated list for aspiring developers.
   - [React.memo() 현명하게 사용하기](https://ui.toast.com/weekly-pick/ko_20190731)
   - [useState를 남용하지 마세요](https://www.philly.im/blog/dont-over-use-state)
   - [[React] 웹 동작 과정과 React의 탄생](https://velog.io/@juno7803/React%EA%B0%80-%ED%83%9C%EC%96%B4%EB%82%9C-%EB%B0%B0%EA%B2%BD)
+  - [React Query Key 관리](https://www.zigae.com/react-query-key/)
   - [[번역] 잘 알려진 UI 패턴을 사용하여 리액트 애플리케이션 모듈화하기](https://velog.io/@eunbinn/modularizing-react-apps)
   - [[번역] 리액트, 널 사랑하지만 넌 나를 슬프게 해](https://velog.io/@eunbinn/react-i-love-you-but-youre-bringing-me-down?fbclid=IwAR1-5XmYt_xrdHk4nDNL8hmJpeKn5Kc5xytW607WuwPxg-8NeIojeAY0KQA)
   - [Redux Nomalize](https://jbee.io/react/react-redux-normalize/)
