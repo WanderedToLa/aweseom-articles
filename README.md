@@ -16,6 +16,7 @@ A curated list for aspiring developers.
 
 ## Front-End
 
+- [2023 Javascript Rising Stars](https://risingstars.js.org/2023/en)
 - [웹 어셈블리에 주목하라](https://medium.com/@yujso66/%EB%B2%88%EC%97%AD-%EC%9B%B9%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC%EC%97%90-%EC%A3%BC%EB%AA%A9%ED%95%98%EB%9D%BC-280ff4e9ce01)
 
   ### Javascript
