@@ -145,6 +145,8 @@ A curated list for aspiring developers.
 - [Webstorm 단축키](<https://webisfree.com/2019-12-24/%EC%9B%B9%EC%8A%A4%ED%86%B0(webstorm)-ide-%EB%8B%A8%EC%B6%95%ED%82%A4-%EC%A0%95%EB%B3%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0>)
 - [스시 오마카세 리스트](https://github.com/738/awesome-sushi)
 
+- [Fedora Asahi Remix - 애플 실리콘 맥을 위한 가장 세련된 리눅스](https://news.hada.io/topic?id=12438)
+
 ## ETC
 
 - [GeekNews](https://news.hada.io/)
