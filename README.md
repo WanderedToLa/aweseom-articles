@@ -137,6 +137,8 @@ A curated list for aspiring developers.
 
 ## Tips
 
+- [오픈소스 기여 시작하는 방법 | 라인개발실록](https://www.youtube.com/watch?v=v4bFCpP9BWk)
+- [슬기로운 오픈소스 생활 | 라인개발실록](https://www.youtube.com/watch?v=2lL2eRQch2o)
 - [Open Source Guides](https://opensource.guide/)
 - [오픈 소스(Open-Source) 구조와 모듈 파악하기](https://kdydesign.github.io/2020/10/19/open-source-flow/)
 - [빠르게 배우는 NPM 패키지 생성부터 배포까지 완벽 가이드](https://kdydesign.github.io/2020/08/28/npm-tutorial/#npm-node-package-manager)
