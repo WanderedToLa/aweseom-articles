@@ -8,7 +8,6 @@ A curated list for aspiring developers.
 - [Pradigm](#paradigm)
 - [Devops](#devops)
 - [ComputerScience](#computerscience)
-- [Blogs & Videos](#blogs--videos)
 - [수학](#수학)
 - [Books](#books)
 - [Tips](#tips)
