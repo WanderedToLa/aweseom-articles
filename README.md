@@ -90,16 +90,15 @@ A curated list for aspiring developers.
 
 ## DevOps
 
-- [Github Action Doc](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions)
-- [octokit Api doc](https://octokit.github.io/rest.js/v19#usage)
 - [Github Action 캐시성능 최적화](https://www.daleseo.com/github-actions-cache/)
 - [LightHouse CI to GithubActions(Kakao)](https://fe-developers.kakaoent.com/2022/220602-lighthouse-with-github-actions/)
 - [뱅크샐러드 Web chapter에서 GitHub Action 기반의 CI 속도를 개선한 방법](https://blog.banksalad.com/tech/github-action-npm-cache/)
 - [10x Faster CI with Nx and Github Actions](https://medium.com/emoteev-blog/10x-faster-ci-with-nx-and-github-actions-9a51fc4e82a6)
-- [Git-branchless](https://github.com/arxanas/git-branchless/wiki/Workflow:-divergent-development)
-- [Better Model for Stacked PR](https://timothya.com/blog/git-stack/)
+
 - [AWS EC2에 NEXT.js 배포하기](https://velog.io/@yoondengo/AWS-EC2-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%EC%97%90-Next.js-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%98%AC%EB%A0%A4%EB%B3%B4%EA%B8%B0#%EB%82%A8%EC%9D%98-%EC%BB%B4%ED%93%A8%ED%84%B0%EC%97%90-%EC%9D%B4%EA%B2%83-%EC%A0%80%EA%B2%83-%EA%B9%94%EA%B3%A0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%8F%84-%EC%98%AC%EB%A6%AC%EA%B8%B0)
 - [EC2에 GitHub Actions self-hosted runner 띄우기](https://wonny.space/writing/dev/github-actions-self-hosted-runnder-on-ec2)
+
+- [[MonoRepo] lerna? yarn workspace? 크게 개념만 잡아보기](https://simsimjae.medium.com/monorepo-lerna-yarn-workspace-%ED%81%AC%EA%B2%8C-%EA%B0%9C%EB%85%90%EB%A7%8C-%EC%9E%A1%EC%95%84%EB%B3%B4%EA%B8%B0-c58bc4ba31fe)
 - [팀워크 향상을 위한 모노레포(Monorepo) 시스템 구축](https://blog.mathpresso.com/%ED%8C%80%EC%9B%8C%ED%81%AC-%ED%96%A5%EC%83%81%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%AA%A8%EB%85%B8%EB%A0%88%ED%8F%AC-monorepo-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95-3ae1b0112f1b)
 - [모던 프론트엔드 프로젝트 구성 기법 - 모노레포 개념 편(Naver)](https://d2.naver.com/helloworld/0923884)
 
@@ -142,12 +141,16 @@ A curated list for aspiring developers.
 - [Open Source Guides](https://opensource.guide/)
 - [오픈 소스(Open-Source) 구조와 모듈 파악하기](https://kdydesign.github.io/2020/10/19/open-source-flow/)
 - [빠르게 배우는 NPM 패키지 생성부터 배포까지 완벽 가이드](https://kdydesign.github.io/2020/08/28/npm-tutorial/#npm-node-package-manager)
-- [GitHub의 Merge, Squash and Merge, Rebase and Merge 정확히 이해하기](https://meetup.nhncloud.com/posts/122)
-- [Github Advanced search](https://github.com/search/advanced)
-- [Webstorm 단축키](<https://webisfree.com/2019-12-24/%EC%9B%B9%EC%8A%A4%ED%86%B0(webstorm)-ide-%EB%8B%A8%EC%B6%95%ED%82%A4-%EC%A0%95%EB%B3%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0>)
-- [스시 오마카세 리스트](https://github.com/738/awesome-sushi)
 
+- [Git-branchless](https://github.com/arxanas/git-branchless/wiki/Workflow:-divergent-development)
+- [GitHub의 Merge, Squash and Merge, Rebase and Merge 정확히 이해하기](https://meetup.nhncloud.com/posts/122)
+- [Better Model for Stacked PR](https://timothya.com/blog/git-stack/)
+- [Github Advanced search](https://github.com/search/advanced)
+
+- [Webstorm 단축키](<https://webisfree.com/2019-12-24/%EC%9B%B9%EC%8A%A4%ED%86%B0(webstorm)-ide-%EB%8B%A8%EC%B6%95%ED%82%A4-%EC%A0%95%EB%B3%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0>)
 - [Fedora Asahi Remix - 애플 실리콘 맥을 위한 가장 세련된 리눅스](https://news.hada.io/topic?id=12438)
+
+- [스시 오마카세 리스트](https://github.com/738/awesome-sushi)
 
 ## ETC
 
