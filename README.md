@@ -143,6 +143,7 @@ A curated list for aspiring developers.
 - [오픈 소스(Open-Source) 구조와 모듈 파악하기](https://kdydesign.github.io/2020/10/19/open-source-flow/)
 - [빠르게 배우는 NPM 패키지 생성부터 배포까지 완벽 가이드](https://kdydesign.github.io/2020/08/28/npm-tutorial/#npm-node-package-manager)
 - [오픈소스 코드 분석하는 방법(존 슐린커트 형님의 is-number)](https://www.youtube.com/watch?v=3gXGMvRko5E)
+- [직접 만든 라이브러리로 Next.js 페이지 메타 정보 관리하기](https://www.blog.kcd.co.kr/%EC%A7%81%EC%A0%91-%EB%A7%8C%EB%93%A0-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A1%9C-next-js-%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%A9%94%ED%83%80-%EC%A0%95%EB%B3%B4-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-4e71a830b41d)
 
 - [Git-branchless](https://github.com/arxanas/git-branchless/wiki/Workflow:-divergent-development)
 - [GitHub의 Merge, Squash and Merge, Rebase and Merge 정확히 이해하기](https://meetup.nhncloud.com/posts/122)
