@@ -28,6 +28,7 @@ A curated list for aspiring developers.
   - [아니 X발? 자바스크립트 이게 뭐야??](https://github.com/denysdovhan/wtfjs/blob/master/README-kr.md)
   - [ECMAScript 명세 이해](https://ui.toast.com/posts/ko_20221116_1)
   - [자바스크립트 v8 엔진의 가비지 컬렉션 동작 방식](https://fe-developers.kakaoent.com/2022/220519-garbage-collection/)
+  - [자바스크립트의 새로운 기능들 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220728-es2022/)
 
   ### Typescript
 
@@ -95,6 +96,7 @@ A curated list for aspiring developers.
 - [뱅크샐러드 Web chapter에서 GitHub Action 기반의 CI 속도를 개선한 방법](https://blog.banksalad.com/tech/github-action-npm-cache/)
 - [10x Faster CI with Nx and Github Actions](https://medium.com/emoteev-blog/10x-faster-ci-with-nx-and-github-actions-9a51fc4e82a6)
 
+- [슬랙봇을 활용한 기술 블로그 배포 자동화 이야기](https://insight.infograb.net/blog/2024/01/10/slack-bot/)
 - [AWS EC2에 NEXT.js 배포하기](https://velog.io/@yoondengo/AWS-EC2-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%EC%97%90-Next.js-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%98%AC%EB%A0%A4%EB%B3%B4%EA%B8%B0#%EB%82%A8%EC%9D%98-%EC%BB%B4%ED%93%A8%ED%84%B0%EC%97%90-%EC%9D%B4%EA%B2%83-%EC%A0%80%EA%B2%83-%EA%B9%94%EA%B3%A0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%8F%84-%EC%98%AC%EB%A6%AC%EA%B8%B0)
 - [EC2에 GitHub Actions self-hosted runner 띄우기](https://wonny.space/writing/dev/github-actions-self-hosted-runnder-on-ec2)
 
@@ -132,7 +134,7 @@ A curated list for aspiring developers.
 - [컴퓨터 사이언스 부트캠프 with Python](https://www.coupang.com/vp/products/73196366?itemId=244021205&vendorItemId=3600466849&src=1042503&spec=10304982&addtag=400&ctag=73196366&lptag=10304982I244021205&itime=20230118230830&pageType=PRODUCT&pageValue=73196366&wPcid=16566832247521699889143&wRef=&wTime=20230118230830&redirect=landing&gclid=CjwKCAiAzp6eBhByEiwA_gGq5H4hkcLd87KtVgzeBkDtiHzp78bk6hIyJ0Q0cRMJZzwn2SP0ohlCuhoCMQUQAvD_BwE&campaignid=18626086777&adgroupid=&isAddedCart=)
 - [실용주의 프로그래머](http://www.yes24.com/Product/Goods/12501565)
 - [리팩토링 2판](https://www.coupang.com/vp/products/1388403622?itemId=2423947118&vendorItemId=70418019480&src=1042503&spec=10304982&addtag=400&ctag=1388403622&lptag=10304982I2423947118&itime=20230118230739&pageType=PRODUCT&pageValue=1388403622&wPcid=16566832247521699889143&wRef=&wTime=20230118230739&redirect=landing&gclid=CjwKCAiAzp6eBhByEiwA_gGq5G01rsJ0UiufsD81g956knLSybne2ArPHIiSzKkyE5w8B2j--sipeBoC-lIQAvD_BwE&campaignid=18626086777&adgroupid=&isAddedCart=)
-- [이산수학 Rosen](https://www.amazon.com/Discrete-Mathematics-Applications-ConnectPlus-Access/dp/0077916085/ref=sr_1_3?ie=UTF8&qid=1373709102&sr=8-3&keywords=discrete+mathematics)%EA%B3%BC)
+- [이산수학 Rosen](https://www.amazon.com/Discrete-Mathematics-Applications-ConnectPlus-Access/dp/0077916085/ref=sr_1_3?ie=UTF8&qid=1373709102&sr=8-3&keywords=discrete+mathematics)
 - [밑바닥부터 만드는 인터프리터 in Go](https://www.yes24.com/Product/Goods/103157156)
 
 ## Tips
