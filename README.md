@@ -1,4 +1,4 @@
-# Awesome list for Junior Front-End Engineers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Article [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list for aspiring developers.
 
@@ -13,7 +13,7 @@ A curated list for aspiring developers.
 - [Tips](#tips)
 - [ETC](#etc)
 
-## Front-End
+## Frontend
 
 - [시니어 개발자가 말하는, 프론트엔드 업무와 잘하는 프론트엔드 개발자란 | 요즘IT](https://yozm.wishket.com/magazine/detail/1294/)
 - [2023 Javascript Rising Stars](https://risingstars.js.org/2023/en)
