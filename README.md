@@ -8,8 +8,6 @@ A curated list for aspiring developers.
 - [Pradigm](#paradigm)
 - [Devops](#devops)
 - [ComputerScience](#computerscience)
-- [수학](#수학)
-- [Books](#books)
 - [Tips](#tips)
 - [ETC](#etc)
 
@@ -119,24 +117,6 @@ A curated list for aspiring developers.
 - [MIT OpenCourseWare - Computation](https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 - [Introduction to Computer Networking Stanford University](https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z)
 - [Putting the “You” in CPU](https://cpu.land/)
-
-## 수학
-
-- [Lovász 교수의 이산수학](https://cims.nyu.edu/~regev/teaching/discrete_math_fall_2005/dmbook.pdf)
-- [선형대수 기초](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-- [PS/PS 정수론 가이드](https://rkm0959.tistory.com/category/PS/PS%20%EC%A0%95%EC%88%98%EB%A1%A0%20%EA%B0%80%EC%9D%B4%EB%93%9C?page=2)
-- [NEW 이산수학 (대학수학기초) 이상준 경희대 교수](https://www.youtube.com/watch?v=pNPowcLmVus&list=PLaqQvlCBe8vLrmtPgU7DV6r7Ofk43dB0m)
-
-## Books
-
-- [SICP Javascript](http://www.yes24.com/Product/Goods/116469364)
-- [Code Complete2](http://www.yes24.com/Product/Goods/44130507)
-- [Programming : Principles and Practice Using C++](http://www.yes24.com/Product/Goods/23207535)
-- [컴퓨터 사이언스 부트캠프 with Python](https://www.coupang.com/vp/products/73196366?itemId=244021205&vendorItemId=3600466849&src=1042503&spec=10304982&addtag=400&ctag=73196366&lptag=10304982I244021205&itime=20230118230830&pageType=PRODUCT&pageValue=73196366&wPcid=16566832247521699889143&wRef=&wTime=20230118230830&redirect=landing&gclid=CjwKCAiAzp6eBhByEiwA_gGq5H4hkcLd87KtVgzeBkDtiHzp78bk6hIyJ0Q0cRMJZzwn2SP0ohlCuhoCMQUQAvD_BwE&campaignid=18626086777&adgroupid=&isAddedCart=)
-- [실용주의 프로그래머](http://www.yes24.com/Product/Goods/12501565)
-- [리팩토링 2판](https://www.coupang.com/vp/products/1388403622?itemId=2423947118&vendorItemId=70418019480&src=1042503&spec=10304982&addtag=400&ctag=1388403622&lptag=10304982I2423947118&itime=20230118230739&pageType=PRODUCT&pageValue=1388403622&wPcid=16566832247521699889143&wRef=&wTime=20230118230739&redirect=landing&gclid=CjwKCAiAzp6eBhByEiwA_gGq5G01rsJ0UiufsD81g956knLSybne2ArPHIiSzKkyE5w8B2j--sipeBoC-lIQAvD_BwE&campaignid=18626086777&adgroupid=&isAddedCart=)
-- [이산수학 Rosen](https://www.amazon.com/Discrete-Mathematics-Applications-ConnectPlus-Access/dp/0077916085/ref=sr_1_3?ie=UTF8&qid=1373709102&sr=8-3&keywords=discrete+mathematics)
-- [밑바닥부터 만드는 인터프리터 in Go](https://www.yes24.com/Product/Goods/103157156)
 
 ## Tips
 
