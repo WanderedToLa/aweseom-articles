@@ -34,8 +34,6 @@ A curated list for aspiring developers.
   - [Typescript를 위한 CleanCode](https://738.github.io/clean-code-typescript/)
   - [Typescript는 어떻게 공부해야 하나요?](https://yozm.wishket.com/magazine/detail/1376/)
   - [typescript 정리](https://inpa.tistory.com/category/Language/TypeScript)
-  - [Type VS Interface](https://medium.com/humanscape-tech/type-vs-interface-%EC%96%B8%EC%A0%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-f36499b0de50)
-  - [Type VS Interface 2](https://tecoble.techcourse.co.kr/post/2022-11-07-typeAlias-interface/)
   - [Template Literal Types로 타입 안전하게 코딩하기](https://toss.tech/article/template-literal-types)
   - [Bringing Pattern Matching to TypeScript 🎨 Introducing TS-Pattern v3.0](https://dev.to/gvergnaud/bringing-pattern-matching-to-typescript-introducing-ts-pattern-v3-0-o1k)
   - [Using Tagged Unions](https://greg-pabian.medium.com/using-tagged-unions-84705459107a)
@@ -55,6 +53,7 @@ A curated list for aspiring developers.
   - [[번역] 리액트, 널 사랑하지만 넌 나를 슬프게 해](https://velog.io/@eunbinn/react-i-love-you-but-youre-bringing-me-down?fbclid=IwAR1-5XmYt_xrdHk4nDNL8hmJpeKn5Kc5xytW607WuwPxg-8NeIojeAY0KQA)
   - [Redux Nomalize](https://jbee.io/react/react-redux-normalize/)
   - [Next/Image를 활용한 이미지 최적화 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220714-next-image/)
+  - [if kakao sentry를 이용한 에러추적](https://if.kakao.com/2022/session/84)
   - [[번역] Next.js 13.4](https://velog.io/@typo/next.js-13.4)
 
   ### Tips
@@ -63,10 +62,7 @@ A curated list for aspiring developers.
   - [웹 최적화 방식](https://black7375.tistory.com/82)
   - [프론트엔드 성능분석하기](https://codingmoondoll.tistory.com/entry/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-Quick-Start-1)
   - [how to jest Coverage](https://www.daleseo.com/jest-coverage/)
-  - [토스ㅣSLASH 21 - 테스트 커버리지 100%](https://www.youtube.com/watch?v=jdlBu2vFv58)
-  - [[A5] 프론트엔드에서 TDD가 가능하다는 것을 보여드립니다.](https://www.youtube.com/watch?v=L1dtkLeIz-M&t=1729s)
   - [테스트하기 좋은 코드](https://jojoldu.tistory.com/680)
-  - [if kakao sentry를 이용한 에러추적](https://if.kakao.com/2022/session/84)
   - [Webpack → Vite: 번들러 마이그레이션 이야기](https://engineering.ab180.co/stories/webpack-to-vite)
   - [Fastest Frontend Tooling in 2023](https://cpojer.net/posts/fastest-frontend-tooling-in-2022)
 
