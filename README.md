@@ -4,7 +4,7 @@ A curated list for aspiring developers.
 
 ## TOC
 
-- [Front-End](#front-end)
+- [Frontend](#front-end)
 - [Pradigm](#paradigm)
 - [Devops](#devops)
 - [ComputerScience](#computerscience)
