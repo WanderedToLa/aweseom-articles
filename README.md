@@ -16,55 +16,52 @@ A curated list for aspiring developers.
 - [시니어 개발자가 말하는, 프론트엔드 업무와 잘하는 프론트엔드 개발자란 | 요즘IT](https://yozm.wishket.com/magazine/detail/1294/)
 - [2023 Javascript Rising Stars](https://risingstars.js.org/2023/en)
 - [웹 어셈블리에 주목하라](https://medium.com/@yujso66/%EB%B2%88%EC%97%AD-%EC%9B%B9%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC%EC%97%90-%EC%A3%BC%EB%AA%A9%ED%95%98%EB%9D%BC-280ff4e9ce01)
+- [성능 최적화](https://ui.toast.com/fe-guide/ko_PERFORMANCE)
+- [웹 최적화 방식](https://black7375.tistory.com/82)
+- [프론트엔드 성능분석하기](https://codingmoondoll.tistory.com/entry/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-Quick-Start-1)
+- [how to jest Coverage](https://www.daleseo.com/jest-coverage/)
+- [테스트하기 좋은 코드](https://jojoldu.tistory.com/680)
+- [Webpack → Vite: 번들러 마이그레이션 이야기](https://engineering.ab180.co/stories/webpack-to-vite)
+- [Fastest Frontend Tooling](https://cpojer.net/posts/fastest-frontend-tooling-in-2022)
 
-  ### Javascript
+### Javascript
 
-  - [움짤로 보는 자바스크립트 동작원리](https://kkangdda.tistory.com/78?category=830981)
-  - [return `null` vs `undefined`](https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/return-null-vs-undefined.md#%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-null-vs-undefined)
-  - [JavaScript 번들러로 본 조선시대 붕당의 이해](https://wormwlrm.github.io/2020/08/12/History-of-JavaScript-Modules-and-Bundlers.html)
-  - [제너레이터](https://ko.javascript.info/generators)
-  - [이터러블 / 이터레이터](https://inpa.tistory.com/entry/JS-%F0%9F%93%9A-%EC%9D%B4%ED%84%B0%EB%9F%AC%EB%B8%94-%EC%9D%B4%ED%84%B0%EB%A0%88%EC%9D%B4%ED%84%B0-%F0%9F%92%AF%EC%99%84%EB%B2%BD-%EC%9D%B4%ED%95%B4)
-  - [아니 X발? 자바스크립트 이게 뭐야??](https://github.com/denysdovhan/wtfjs/blob/master/README-kr.md)
-  - [ECMAScript 명세 이해](https://ui.toast.com/posts/ko_20221116_1)
-  - [자바스크립트 v8 엔진의 가비지 컬렉션 동작 방식](https://fe-developers.kakaoent.com/2022/220519-garbage-collection/)
-  - [자바스크립트의 새로운 기능들 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220728-es2022/)
+- [움짤로 보는 자바스크립트 동작원리](https://kkangdda.tistory.com/78?category=830981)
+- [return `null` vs `undefined`](https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/return-null-vs-undefined.md#%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-null-vs-undefined)
+- [JavaScript 번들러로 본 조선시대 붕당의 이해](https://wormwlrm.github.io/2020/08/12/History-of-JavaScript-Modules-and-Bundlers.html)
+- [제너레이터](https://ko.javascript.info/generators)
+- [이터러블 / 이터레이터](https://inpa.tistory.com/entry/JS-%F0%9F%93%9A-%EC%9D%B4%ED%84%B0%EB%9F%AC%EB%B8%94-%EC%9D%B4%ED%84%B0%EB%A0%88%EC%9D%B4%ED%84%B0-%F0%9F%92%AF%EC%99%84%EB%B2%BD-%EC%9D%B4%ED%95%B4)
+- [아니 X발? 자바스크립트 이게 뭐야??](https://github.com/denysdovhan/wtfjs/blob/master/README-kr.md)
+- [ECMAScript 명세 이해](https://ui.toast.com/posts/ko_20221116_1)
+- [자바스크립트 v8 엔진의 가비지 컬렉션 동작 방식](https://fe-developers.kakaoent.com/2022/220519-garbage-collection/)
+- [자바스크립트의 새로운 기능들 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220728-es2022/)
 
-  ### Typescript
+### Typescript
 
-  - [Typescript를 위한 CleanCode](https://738.github.io/clean-code-typescript/)
-  - [Typescript는 어떻게 공부해야 하나요?](https://yozm.wishket.com/magazine/detail/1376/)
-  - [typescript 정리](https://inpa.tistory.com/category/Language/TypeScript)
-  - [Template Literal Types로 타입 안전하게 코딩하기](https://toss.tech/article/template-literal-types)
-  - [Bringing Pattern Matching to TypeScript 🎨 Introducing TS-Pattern v3.0](https://dev.to/gvergnaud/bringing-pattern-matching-to-typescript-introducing-ts-pattern-v3-0-o1k)
-  - [Using Tagged Unions](https://greg-pabian.medium.com/using-tagged-unions-84705459107a)
-  - [타입시스템으로 산수 구현](https://itchallenger.tistory.com/482)
+- [Typescript를 위한 CleanCode](https://738.github.io/clean-code-typescript/)
+- [Typescript는 어떻게 공부해야 하나요?](https://yozm.wishket.com/magazine/detail/1376/)
+- [typescript 정리](https://inpa.tistory.com/category/Language/TypeScript)
+- [Template Literal Types로 타입 안전하게 코딩하기](https://toss.tech/article/template-literal-types)
+- [Bringing Pattern Matching to TypeScript 🎨 Introducing TS-Pattern v3.0](https://dev.to/gvergnaud/bringing-pattern-matching-to-typescript-introducing-ts-pattern-v3-0-o1k)
+- [Using Tagged Unions](https://greg-pabian.medium.com/using-tagged-unions-84705459107a)
+- [타입시스템으로 산수 구현](https://itchallenger.tistory.com/482)
 
-  ### React
+### React
 
-  - [(번역) 블로그 답변: React 렌더링 동작에 대한 (거의) 완벽한 가이드](https://velog.io/@superlipbalm/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior)
-  - [Headless UI Library 란?](https://jbee.io/react/headless-concept/)
-  - [React VS Signals](https://junghan92.medium.com/%EB%A6%AC%EC%95%A1%ED%8A%B8-vs-signals-10%EB%85%84%EC%9D%B4-%EC%A7%80%EB%82%9C-%EC%A7%80%EA%B8%88-89e5c648c2e8)
-  - [useHooks-ts](https://usehooks-ts.com/react-hook/use-boolean)
-  - [React.memo() 현명하게 사용하기](https://ui.toast.com/weekly-pick/ko_20190731)
-  - [useState를 남용하지 마세요](https://www.philly.im/blog/dont-over-use-state)
-  - [[React] 웹 동작 과정과 React의 탄생](https://velog.io/@juno7803/React%EA%B0%80-%ED%83%9C%EC%96%B4%EB%82%9C-%EB%B0%B0%EA%B2%BD)
-  - [React Query Key 관리](https://www.zigae.com/react-query-key/)
-  - [[번역] 잘 알려진 UI 패턴을 사용하여 리액트 애플리케이션 모듈화하기](https://velog.io/@eunbinn/modularizing-react-apps)
-  - [[번역] 리액트, 널 사랑하지만 넌 나를 슬프게 해](https://velog.io/@eunbinn/react-i-love-you-but-youre-bringing-me-down?fbclid=IwAR1-5XmYt_xrdHk4nDNL8hmJpeKn5Kc5xytW607WuwPxg-8NeIojeAY0KQA)
-  - [Redux Nomalize](https://jbee.io/react/react-redux-normalize/)
-  - [Next/Image를 활용한 이미지 최적화 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220714-next-image/)
-  - [if kakao sentry를 이용한 에러추적](https://if.kakao.com/2022/session/84)
-  - [[번역] Next.js 13.4](https://velog.io/@typo/next.js-13.4)
-
-  ### Tips
-
-  - [성능 최적화](https://ui.toast.com/fe-guide/ko_PERFORMANCE)
-  - [웹 최적화 방식](https://black7375.tistory.com/82)
-  - [프론트엔드 성능분석하기](https://codingmoondoll.tistory.com/entry/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-Quick-Start-1)
-  - [how to jest Coverage](https://www.daleseo.com/jest-coverage/)
-  - [테스트하기 좋은 코드](https://jojoldu.tistory.com/680)
-  - [Webpack → Vite: 번들러 마이그레이션 이야기](https://engineering.ab180.co/stories/webpack-to-vite)
-  - [Fastest Frontend Tooling in 2023](https://cpojer.net/posts/fastest-frontend-tooling-in-2022)
+- [(번역) 블로그 답변: React 렌더링 동작에 대한 (거의) 완벽한 가이드](https://velog.io/@superlipbalm/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior)
+- [Headless UI Library 란?](https://jbee.io/react/headless-concept/)
+- [React VS Signals](https://junghan92.medium.com/%EB%A6%AC%EC%95%A1%ED%8A%B8-vs-signals-10%EB%85%84%EC%9D%B4-%EC%A7%80%EB%82%9C-%EC%A7%80%EA%B8%88-89e5c648c2e8)
+- [useHooks-ts](https://usehooks-ts.com/react-hook/use-boolean)
+- [React.memo() 현명하게 사용하기](https://ui.toast.com/weekly-pick/ko_20190731)
+- [useState를 남용하지 마세요](https://www.philly.im/blog/dont-over-use-state)
+- [[React] 웹 동작 과정과 React의 탄생](https://velog.io/@juno7803/React%EA%B0%80-%ED%83%9C%EC%96%B4%EB%82%9C-%EB%B0%B0%EA%B2%BD)
+- [React Query Key 관리](https://www.zigae.com/react-query-key/)
+- [[번역] 잘 알려진 UI 패턴을 사용하여 리액트 애플리케이션 모듈화하기](https://velog.io/@eunbinn/modularizing-react-apps)
+- [[번역] 리액트, 널 사랑하지만 넌 나를 슬프게 해](https://velog.io/@eunbinn/react-i-love-you-but-youre-bringing-me-down?fbclid=IwAR1-5XmYt_xrdHk4nDNL8hmJpeKn5Kc5xytW607WuwPxg-8NeIojeAY0KQA)
+- [Redux Nomalize](https://jbee.io/react/react-redux-normalize/)
+- [Next/Image를 활용한 이미지 최적화 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220714-next-image/)
+- [if kakao sentry를 이용한 에러추적](https://if.kakao.com/2022/session/84)
+- [[번역] Next.js 13.4](https://velog.io/@typo/next.js-13.4)
 
 ## Paradigm
 
