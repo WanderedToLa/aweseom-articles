@@ -116,6 +116,7 @@ A curated list for aspiring developers.
 
 ## Tips
 
+- [▲15년 전의 나에게 해주고 싶은 프로그래밍 조언](https://news.hada.io/topic?id=15848)
 - [오픈소스 기여 시작하는 방법 | 라인개발실록](https://www.youtube.com/watch?v=v4bFCpP9BWk)
 - [슬기로운 오픈소스 생활 | 라인개발실록](https://www.youtube.com/watch?v=2lL2eRQch2o)
 - [Open Source Guides](https://opensource.guide/)
